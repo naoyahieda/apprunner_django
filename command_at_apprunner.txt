@@ -1,0 +1,3 @@
+Build command → pip install -r requirements.txt
+
+Start command → gunicorn -b :8080 config.wsgi:application
