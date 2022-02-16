@@ -1,6 +1,4 @@
-# プロジェクトを作成する
-`docker compose run --rm web django-admin startproject config .`
-# アプリを１つ作成する(ここではtodoアプリ)
-`docker compose run --rm web python manage.py startapp todo`
-# 起動する
-`docker compose up`
+# English ver at Magicode 
+https://magicode.io/naoyahieda/articles/48d7c1ba7c294043ab5924919485e3ee
+
+# Japanese ver is not ready
